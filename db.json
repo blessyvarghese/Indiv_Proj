@@ -1,0 +1,210 @@
+{
+  "Quiz1_questions": [
+    {
+      "id": 1,
+      "type": "mc",
+      "question": "What does CSS stand for ",
+      "choices": {
+        "choicea": "Creating Style Space",
+        "choiceb": "Cascading Style Sheet",
+        "choicec": "Cascading Space Sheet",
+        "choiced": "Creating Style Sheet"
+      },
+      "correct_ans": "choiceb",
+      "explanation": "CSS stands for Cascading Style Sheet"
+    },
+    {
+      "id": 2,
+      "type": "mc",
+      "question": "Which tag create a paragraph? ",
+      "choices": {
+        "choicea": "<p>",
+        "choiceb": "<para>",
+        "choicec": "<paragraph>",
+        "choiced": "<div>"
+      },
+      "correct_ans": "choicea",
+      "explanation": "<p> tag is used for a paragraph. "
+    },
+    {
+      "id": 3,
+      "type": "mc",
+      "question": "What is the <id> tag?",
+      "choices": {
+        "choicea": "The name of the element",
+        "choiceb": "Allows users to look up on Database",
+        "choicec": "Denotes the Unique ID of an element of the page",
+        "choiced": "Creates an input field for user to enter their unique ID"
+      },
+      "correct_ans": "choicec",
+      "explanation": "The <id> tag creates a unique ID for an element in the page."
+    },
+    {
+      "id": 4,
+      "type": "fill in",
+      "question": "What tag is used for a header 1?  ",
+      "correct_ans": "<h1>",
+      "explanation": "<h1> is used for Header 1."
+    },
+    {
+      "id": 5,
+      "type": "fill in",
+      "question": "What tag is used for a header 2?  ",
+      "correct_ans": "<h2>",
+      "explanation": "<h2> is used for Header 2."
+    },
+    {
+      "id": 6,
+      "type": "fill in",
+      "question": "What tag is used for a line break?  ",
+      "correct_ans": "<br>",
+      "explanation": "<br> is used for line break. "
+    },
+    {
+      "id": 7,
+      "type": "fill in",
+      "question": "What tag is used to add CSS?  ",
+      "correct_ans": "<style>",
+      "explanation": "<style> is used for CSS."
+    },
+    {
+      "id": 8,
+      "type": "fill in",
+      "question": "What tag is used to add JavaScript within HTML?  ",
+      "correct_ans": "<script>",
+      "explanation": "<script> is used to add Javascript."
+    },
+    {
+      "id": 9,
+      "type": "fill in",
+      "question": "What tag is used to make a text bold?  ",
+      "correct_ans": "<b>",
+      "explanation": "<b> is used to bold a text."
+    },
+    {
+      "id": 10,
+      "type": "fill in",
+      "question": "What is the image tag?  ",
+      "correct_ans": "<img>",
+      "explanation": "<img> is used for adding an image."
+    },
+    {
+      "id": 11,
+      "type": "mc",
+      "question": "What is Bootstrap",
+      "choices": {
+        "choicea": "Straps on a Boot to help tighten it.",
+        "choiceb": "Free and open-source CSS framework contains design templates.",
+        "choicec": "Anti-virus software",
+        "choiced": "Creates an input field for user to enter their unique ID"
+      },
+      "correct_ans": "choiceb",
+      "explanation": "Bootstrap is used for design templates. "
+    },
+    {
+      "id": 12,
+      "type": "mc",
+      "question": "What does HTML stand for? ",
+      "choices": {
+        "choicea": "Hyperactive Text Machine Learning ",
+        "choiceb": "HyperText Markup Learning",
+        "choicec": "Hyperlink Markup Language",
+        "choiced": "HyperText Markup Language"
+      },
+      "correct_ans": "choiced",
+      "explanation": "HTML stands for HyperText Markup Language."
+    },
+    {
+      "id": 13,
+      "type": "tf",
+      "question": "The HTML element for the largest heading is <h6>. ",
+      "choices": {
+        "choicea" : "True",
+        "choiceb": "False"
+      },
+      "correct_ans": "choiceb",
+      "explanation": "The tag for the largest heading is <h1>"
+    },
+    {
+      "id": 14,
+      "type": "tf",
+      "question": "The HTML for adding a background is <background> yellow </background> ",
+      "choices": {
+        "choicea" : "True",
+        "choiceb": "False"
+      },
+      "correct_ans": "choiceb",
+      "explanation": "The correct syntax to adding a background color is <body style='background-color:yellow;>"
+    },
+    {
+      "id": 15,
+      "type": "tf",
+      "question": "The HTML for italicizing a text is <i>",
+      "choices": {
+        "choicea" : "True",
+        "choiceb": "False"
+      },
+      "correct_ans": "choicea",
+      "explanation": "Use <i> to italicize a text."
+    },
+    {
+      "id": 16,
+      "type": "tf",
+      "question": "The HTML for adding a background is <background> yellow </background> ",
+      "choices": {
+        "choicea" : "True",
+        "choiceb": "False"
+      },
+      "correct_ans": "choiceb",
+      "explanation": "The correct syntax to adding a background color is <body style='background-color:yellow;>"
+    },
+    {
+      "id": 17,
+      "type": "tf",
+      "question": "The character used to indicate an end tag is / ",
+      "choices": {
+        "choicea" : "True",
+        "choiceb": "False"
+      },
+      "correct_ans": "choicea",
+      "explanation": "Use / in a tag to end it."
+    },
+    {
+      "id": 18,
+      "type": "tf",
+      "question": "Inline elements are normally displayed without starting a new line.",
+      "choices": {
+        "choicea" : "True",
+        "choiceb": "False"
+      },
+      "correct_ans": "choicea",
+      "explanation": "Inline elements are normally displayed without starting aew line."
+    },
+    {
+      "id": 19,
+      "type": "mc",
+      "question": "What tag is used for a numbered list? ",
+      "choices": {
+        "choicea": "<ol>",
+        "choiceb": "<dl>",
+        "choicec": "<ul>",
+        "choiced": "<list>"
+      },
+      "correct_ans": "choicea",
+      "explanation": "<ol> is used for a numbered list."
+    },
+    {
+      "id": 20,
+      "type": "mc",
+      "question": "What tag is used for a bulleted list? ",
+      "choices": {
+        "choicea": "<ol>",
+        "choiceb": "<dl>",
+        "choicec": "<ul>",
+        "choiced": "<list>"
+      },
+      "correct_ans": "choicec",
+      "explanation": "<ul> is used for a bulleted list."
+    }
+  ]
+}
